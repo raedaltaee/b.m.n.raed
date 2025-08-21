@@ -139,9 +139,6 @@
 
         <!-- صندوق الرسائل المخصص -->
         <div id="messageBox" class="message-box"></div>
-
-        <!-- المحتوى الرئيسي - مخفي حتى يتم المصادقة -->
-        <div id="main-content" class="hidden">
             <!-- الجزء الأول: إدارة الكيانات الدينية والتعليمية -->
             <div class="mb-8">
                 <h2 class="text-3xl font-bold text-gray-700 mb-6 text-center border-b-2 border-blue-500 pb-2">إدارة الكيانات الدينية والتعليمية</h2>
